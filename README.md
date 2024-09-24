@@ -2,6 +2,8 @@ Project title: Crossing Code
 
 Author: Kyler Frazier
 
+**NOTE** I made this game a LOOOOONG time ago before I knew how to code well lol. Please don't use this as an example; there are dozens of poor coding practices.
+
 Created in May 2015.
 Minor updates made over the years.
 
